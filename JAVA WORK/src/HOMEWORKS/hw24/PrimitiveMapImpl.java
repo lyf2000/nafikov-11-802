@@ -1,4 +1,4 @@
-package hw24;
+package HOMEWORKS.hw24;
 
 
 public class PrimitiveMapImpl<K, V> implements Map<K, V> {

@@ -136,6 +136,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hw24" />
@@ -163,12 +164,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw26.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HOMEWORKS.hw24.hw26.Main" />
       <module name="TASKS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw26.*" />
+          <option name="PATTERN" value="HOMEWORKS.hw24.hw26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +178,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw24.Main" />
+      <option name="MAIN_CLASS_NAME" value="HOMEWORKS.hw24.Main" />
       <module name="TASKS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hw24.*" />
+          <option name="PATTERN" value="HOMEWORKS.hw24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

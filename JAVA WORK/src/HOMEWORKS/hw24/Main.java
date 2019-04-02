@@ -1,6 +1,4 @@
-package hw24;
-
-import org.omg.CORBA.INTERNAL;
+package HOMEWORKS.hw24;
 
 
 import java.util.Random;
