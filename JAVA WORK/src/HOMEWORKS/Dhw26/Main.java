@@ -1,4 +1,4 @@
-package HOMEWORKS.hw26;
+package HOMEWORKS.Dhw26;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -25,7 +25,7 @@ public class Main {
         num_of_values = scanner.nextInt();
         array = new int[num_of_values];
 
-        System.out.println("Enter num of values: ");
+        System.out.println("Enter num of threads: ");
         num_of_threads = scanner.nextInt();
         myThreads = new MyThread[num_of_threads];
 

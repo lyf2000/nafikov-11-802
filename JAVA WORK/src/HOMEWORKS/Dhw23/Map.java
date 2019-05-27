@@ -1,4 +1,4 @@
-package HOMEWORKS.hw24;
+package HOMEWORKS.Dhw23;
 
 public interface Map<K, V> {
     void put(K key, V value);

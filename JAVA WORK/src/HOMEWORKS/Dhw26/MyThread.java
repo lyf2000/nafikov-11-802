@@ -1,4 +1,4 @@
-package HOMEWORKS.hw26;
+package HOMEWORKS.Dhw26;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

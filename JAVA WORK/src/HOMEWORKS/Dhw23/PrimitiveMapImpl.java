@@ -1,11 +1,10 @@
-package HOMEWORKS.hw24;
+package HOMEWORKS.Dhw23;
 
 
-public class PrimitiveMapImpl<K, V> implements Map<K, V> {
+public class PrimitiveMapImpl<K extends Comparable<K>, V> implements Map<K, V> {
 
     final static private int SIZE = 16;
-    private Node last[];
-    private int coll;
+    private static Node last[];
     private Node<K, V> nodes[];
     private Node<K, V> node;
 
@@ -53,7 +52,6 @@ public class PrimitiveMapImpl<K, V> implements Map<K, V> {
 
     public PrimitiveMapImpl() {
         this.nodes = new Node[SIZE];
-        coll = 0;
         last = new Node[SIZE];
     }
 
@@ -69,18 +67,15 @@ public class PrimitiveMapImpl<K, V> implements Map<K, V> {
         node = getNode(key.hashCode(), nodes[hash]);
 
         if (node != null) {
-            if (node.getKey() == key) {
+            if (key.compareTo(node.getKey()) != 0) {
                 node.setValue(value);
                 return;
-            } else {
-                coll++;
             }
         } else if (last[hash].getHash() == key.hashCode()) {
             if (last[hash].getKey() == key) {
                 last[hash].setValue(value);
                 return;
             } else {
-                coll++;
             }
         }
 
@@ -119,13 +114,12 @@ public class PrimitiveMapImpl<K, V> implements Map<K, V> {
             if (nodes[i] != null) {
                 node = nodes[i];
                 while (node.hasNext()) {
-                    System.out.print(node.getValue() + " | ");
+                    System.out.print((String)node.getKey() + node.getValue() + " | ");
                     node = node.next;
                 }
-                System.out.println(last[i].getValue());
+                System.out.println((String)last[i].key + last[i].getValue());
                 System.out.println();
             }
         }
-        System.out.println("Coll: " + coll);
     }
 }
