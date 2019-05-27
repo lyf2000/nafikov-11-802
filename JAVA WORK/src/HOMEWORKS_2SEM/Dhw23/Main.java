@@ -1,4 +1,4 @@
-package HOMEWORKS.Dhw23;
+package HOMEWORKS_2SEM.Dhw23;
 
 
 import java.util.Random;

@@ -1,4 +1,4 @@
-package HOMEWORKS.Dhw25;
+package HOMEWORKS_2SEM.Dhw25;
 
 import java.util.List;
 

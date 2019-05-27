@@ -1,4 +1,4 @@
-package HOMEWORKS.Dhw24.my_linked_list;
+package HOMEWORKS_2SEM.Dhw24.my_linked_list;
 
 import java.util.Iterator;
 

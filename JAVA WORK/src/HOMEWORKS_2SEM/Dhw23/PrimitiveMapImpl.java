@@ -1,4 +1,4 @@
-package HOMEWORKS.Dhw23;
+package HOMEWORKS_2SEM.Dhw23;
 
 
 public class PrimitiveMapImpl<K extends Comparable<K>, V> implements Map<K, V> {

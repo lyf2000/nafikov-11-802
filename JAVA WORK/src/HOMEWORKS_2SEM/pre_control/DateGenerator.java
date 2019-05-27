@@ -1,4 +1,4 @@
-package HOMEWORKS.pre_control;
+package HOMEWORKS_2SEM.pre_control;
 
 import java.util.Random;
 

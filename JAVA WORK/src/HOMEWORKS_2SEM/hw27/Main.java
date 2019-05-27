@@ -1,6 +1,6 @@
-package HOMEWORKS.hw27;
+package HOMEWORKS_2SEM.hw27;
 
-import HOMEWORKS.hw27.Tree.TreeImpl;
+import HOMEWORKS_2SEM.hw27.Tree.TreeImpl;
 
 import java.util.Random;
 
@@ -15,6 +15,8 @@ public class Main {
         }
         tree.print();
 //        System.out.println(tree.getHeight();
+        System.out.println(tree.remove(3));
+        tree.print();
 
     }
 }

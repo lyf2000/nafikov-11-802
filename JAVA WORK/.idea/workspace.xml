@@ -2,13 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3319eee-3a17-4075-81b9-0be092b439c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TASKS/empty.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/hw24/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS/Dhw23/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/hw24/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS/Dhw23/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/hw24/PrimitiveMapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS/Dhw23/PrimitiveMapImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/hw26/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS/Dhw26/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/hw26/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS/Dhw26/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TASKS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TASKS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TASKS/HOMEWORKS/empty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw23/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw23/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw23/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw23/PrimitiveMapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw23/PrimitiveMapImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw24/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw24/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw24/MyStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw24/MyStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw24/my_linked_list/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw24/my_linked_list/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw24/my_linked_list/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw24/my_linked_list/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw25/FrameWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw25/FrameWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw25/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw25/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw25/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw25/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw26/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw26/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/Dhw26/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw26/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/empty.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/empty.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/hw27/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/hw27/Tree/TreeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Tree/TreeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/hw27/Tree/TreeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Tree/TreeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/pre_control/DateGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/pre_control/DateGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOMEWORKS/pre_control/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOMEWORKS_2SEM/pre_control/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,10 +53,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SESSION_S19/QSort.java">
+        <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-24">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,13 +65,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SESSION_S19/BinaryHeap.java">
+        <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Tree/TreeImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="1104">
+              <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="class#Node#0;class#TreeImpl#0" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="method#insert#1;class#TreeImpl#0" />
+                <element signature="method#print#0;class#TreeImpl#0" />
+                <element signature="method#print#1;class#TreeImpl#0" />
+                <element signature="e#1482#1483#0" expanded="true" />
+                <element signature="e#1510#1511#0" expanded="true" />
+                <element signature="method#contains#1;class#TreeImpl#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Tree/TreeInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -131,6 +164,9 @@
         <option value="$PROJECT_DIR$/src/SESSION_S19/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/SESSION_S19/BinaryРуфз.java" />
         <option value="$PROJECT_DIR$/src/SESSION_S19/BinaryHeap.java" />
+        <option value="$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Tree/TreeInterface.java" />
+        <option value="$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Main.java" />
+        <option value="$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Tree/TreeImpl.java" />
       </list>
     </option>
   </component>
@@ -142,10 +178,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1197" />
-    <option name="height" value="846" />
+    <option name="x" value="949" />
+    <option name="width" value="980" />
+    <option name="height" value="1091" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -155,6 +190,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,14 +208,27 @@
               <item name="JAVA WORK" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA WORK" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SESSION_S19" type="462c0819:PsiDirectoryNode" />
+              <item name="HOMEWORKS_2SEM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA WORK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA WORK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HOMEWORKS_2SEM" type="462c0819:PsiDirectoryNode" />
+              <item name="hw27" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA WORK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA WORK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HOMEWORKS_2SEM" type="462c0819:PsiDirectoryNode" />
+              <item name="hw27" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,13 +236,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../GitHub/b-plus-tree" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../nafikov_11-802" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -214,7 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryHeap">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="BinaryHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SESSION_S19.BinaryHeap" />
       <module name="TASKS" />
@@ -235,38 +286,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HOMEWORKS_2SEM.hw27.Main" />
+      <module name="TASKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HOMEWORKS_2SEM.hw27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CODEFORCES.task644C.Main" />
       <module name="TASKS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CODEFORCES.task644C.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CODEFORCES.task356A.Main" />
-      <module name="TASKS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CODEFORCES.task356A.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HOMEWORKS.Dhw26.Main" />
-      <module name="TASKS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HOMEWORKS.Dhw26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,11 +353,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.BinaryHeap" />
         <item itemvalue="Application.QSort" />
         <item itemvalue="Application.Exp" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -357,16 +395,18 @@
       <workItem from="1558274214716" duration="6701000" />
       <workItem from="1558628140248" duration="1472000" />
       <workItem from="1558681176448" duration="5669000" />
+      <workItem from="1558934878963" duration="2526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97710000" />
+    <option name="totallyTimeSpent" value="100236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18916734" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19240098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -375,17 +415,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2831126" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19536424" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.47350994" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.6274834" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.67715234" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.2831126" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.24503312" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -432,7 +472,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/empty.txt">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/empty.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
@@ -483,14 +523,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ййй.java" />
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/pre_control/DateGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/pre_control/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/pre_control/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
@@ -501,7 +534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw23/Map.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw23/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
@@ -515,7 +548,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw23/PrimitiveMapImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw23/PrimitiveMapImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
@@ -525,7 +558,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw23/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw23/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
           <caret line="28" column="51" lean-forward="true" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
@@ -539,7 +572,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw26/MyThread.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw26/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
@@ -549,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw25/FrameWork.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw25/FrameWork.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
@@ -560,21 +593,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw25/Human.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw25/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw25/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw25/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw26/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw26/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1120">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
@@ -592,51 +625,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/hw24/stream/MyStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/hw27/Tree/TreeInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/hw27/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/hw27/Tree/TreeImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="class#Node#0;class#TreeImpl#0" />
-            <element signature="method#insert#1;class#TreeImpl#0" />
-            <element signature="method#print#0;class#TreeImpl#0" />
-            <element signature="method#print#1;class#TreeImpl#0" />
-            <element signature="method#remove#0;class#TreeImpl#0" />
-            <element signature="method#remove#1;class#TreeImpl#0" />
-            <element signature="method#getPrevious#0;class#TreeImpl#0" />
-            <element signature="method#getMin#0;class#TreeImpl#0" />
-            <element signature="method#contains#1;class#TreeImpl#0" />
-            <element signature="e#3259#3260#0" expanded="true" />
-            <element signature="e#3287#3288#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw24/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw24/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="19" column="67" lean-forward="true" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw24/my_linked_list/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw24/my_linked_list/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
@@ -651,14 +647,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw24/my_linked_list/MyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw24/my_linked_list/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-485">
           <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS/Dhw24/MyStream.java">
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/Dhw24/MyStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="832">
           <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
@@ -788,16 +784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SESSION_S19/QSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -809,12 +795,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/pre_control/DateGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SESSION_S19/BinaryHeap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
+        <state relative-caret-position="212">
           <caret line="77" selection-start-line="77" selection-end-line="77" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SESSION_S19/QSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Tree/TreeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOMEWORKS_2SEM/hw27/Tree/TreeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+          <folding>
+            <element signature="class#Node#0;class#TreeImpl#0" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="method#insert#1;class#TreeImpl#0" />
+            <element signature="method#print#0;class#TreeImpl#0" />
+            <element signature="method#print#1;class#TreeImpl#0" />
+            <element signature="e#1482#1483#0" expanded="true" />
+            <element signature="e#1510#1511#0" expanded="true" />
+            <element signature="method#contains#1;class#TreeImpl#0" />
           </folding>
         </state>
       </provider>
@@ -858,6 +896,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -869,7 +908,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JAVA WORK</last-edited>
+          <last-edited>TASKS</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

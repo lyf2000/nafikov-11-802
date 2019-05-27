@@ -1,4 +1,4 @@
-package HOMEWORKS.Dhw23;
+package HOMEWORKS_2SEM.Dhw23;
 
 public interface Map<K, V> {
     void put(K key, V value);

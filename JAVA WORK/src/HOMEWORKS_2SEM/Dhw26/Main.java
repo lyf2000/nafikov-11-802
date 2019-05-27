@@ -1,4 +1,4 @@
-package HOMEWORKS.Dhw26;
+package HOMEWORKS_2SEM.Dhw26;
 
 import java.util.Random;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
-package HOMEWORKS.Dhw24;
+package HOMEWORKS_2SEM.Dhw24;
 
-import HOMEWORKS.Dhw24.my_linked_list.MyLinkedList;
+import HOMEWORKS_2SEM.Dhw24.my_linked_list.MyLinkedList;
 
 import java.util.function.Consumer;
 import java.util.function.Function;
